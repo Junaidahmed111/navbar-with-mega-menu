@@ -153,7 +153,7 @@ const Navbar = () => {
         </div>
       </div>
 
-      <div className="flex order-3 lg:hidden m-4">
+      <div className="flex lg:hidden m-4">
         <div className="flex items-center flex-1 ">
           <h2 className="text-3xl font-bold text-orange-600">Beauty</h2>
         </div>
