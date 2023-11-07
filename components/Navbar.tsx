@@ -36,7 +36,7 @@ const Navbar = () => {
                 Blogs
               </li>
             </Link>
-            <Link href="#">
+            <div>
               {" "}
               {/* mega menu start */}
               <div className="group ">
@@ -51,7 +51,7 @@ const Navbar = () => {
                       </h3>
                       <Link
                         href=""
-                        className="hover:underline hover:text-orange-400"
+                        className="hover:underline hover:text-orange-300"
                       >
                         Makeup Kit
                       </Link>
@@ -136,7 +136,7 @@ const Navbar = () => {
                 </div>
               </div>
               {/* mega menu end */}
-            </Link>
+            </div>
             <Link href="#">
               {" "}
               <li className="hover:text-orange-400 transition border-b-2 border-white hover:border-orange-400 cursor-pointer">
