@@ -51,7 +51,7 @@ const Navbar = () => {
                       </h3>
                       <Link
                         href=""
-                        className="hover:underline hover:text-orange-300"
+                        className="hover:underline hover:text-orange-400"
                       >
                         Makeup Kit
                       </Link>
